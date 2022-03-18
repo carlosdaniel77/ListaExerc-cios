@@ -1,0 +1,13 @@
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.exe
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.deps.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.runtimeconfig.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.dll
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\bin\Debug\netcoreapp3.1\Nível1.pdb
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.csprojAssemblyReference.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.AssemblyInfo.cs
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.dll
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.pdb
+C:\Users\alunos\source\repos\ListadeExercícios\Nível1\obj\Debug\netcoreapp3.1\Nível1.genruntimeconfig.cache
