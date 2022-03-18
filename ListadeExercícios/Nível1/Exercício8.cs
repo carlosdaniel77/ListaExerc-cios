@@ -17,7 +17,7 @@ namespace Nível1
             Console.WriteLine("Entre com o valor da altura: ");
             altura = int.Parse(Console.ReadLine());
 
-            volume = 3.14159 * raio * raio * 2 * altura;
+            volume = 3.14159 * raio * raio * altura;
 
             Console.WriteLine("\nO valor do volume é: {0}", volume);
 
