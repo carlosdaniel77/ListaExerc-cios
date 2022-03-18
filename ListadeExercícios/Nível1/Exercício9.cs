@@ -19,7 +19,7 @@ namespace Nível1
             Console.WriteLine("Meses: ");
             meses = int.Parse(Console.ReadLine());
             Console.WriteLine("Dias: ");
-            meses = int.Parse(Console.ReadLine());
+            dias = int.Parse(Console.ReadLine());
 
             dias = (anos * dias_no_ano) + (meses * dias_no_mes);
 
